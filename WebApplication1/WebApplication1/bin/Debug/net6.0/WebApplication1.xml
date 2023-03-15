@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApplication1</name>
+    </assembly>
+    <members>
+        <member name="M:WebApplication1.Controllers.MainController.GetEmployeesAsync">
+            <summary>
+            Fetch all employees from database.
+            </summary>
+        </member>
+        <member name="M:WebApplication1.Controllers.MainController.CreateEmployeeAsync(System.String,System.String)">
+            <summary>
+            Create new employee.
+            </summary>
+        </member>
+        <member name="M:WebApplication1.Controllers.MainController.RemoveEmployeeAsync(System.Int32)">
+            <summary>
+            Remove selected employee.
+            </summary>
+        </member>
+        <member name="M:WebApplication1.Controllers.MainController.UpdateEmployee(System.Int32,System.String,System.String)">
+            <summary>
+            Update selected employee.
+            </summary>
+        </member>
+    </members>
+</doc>
